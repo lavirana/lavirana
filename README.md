@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavirana&label=Visitors&color=0e75b6&style=flat" alt="lavirana" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
-
-- 📝 I regularly write articles on [https://techfixxo.com](https://techfixxo.com)
-
 - 💬 Ask me about **Laravel, CodeIgniter Framework, APIs, WordPress , Core PHP, jQuery, JavaScript, Affiliate Marketing**
 
 - 📫 How to reach me **ashishrana288@gmail.com**
