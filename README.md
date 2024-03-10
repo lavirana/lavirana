@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 📝 I regularly write articles on [https://techieworthy.blogspot.com](https://techieworthy.blogspot.com)
+- 📝 I regularly write articles on [https://techfixxo.com](https://techfixxo.com)
 
-- 💬 Ask me about **Laravel, CodeIgniter Framework, APIs, WordPress ,Core PHP, jQuery, JavaScript, Affiliate Marketing**
+- 💬 Ask me about **Laravel, CodeIgniter Framework, APIs, WordPress , Core PHP, jQuery, JavaScript, Affiliate Marketing**
 
 - 📫 How to reach me **ashishrana288@gmail.com**
 
