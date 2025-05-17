@@ -7,16 +7,13 @@
 
 - 📫 How to reach me **ashishrana288@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashishrana288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishrana288" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/ashish-rana-6a50846b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/ashish-rana-6a50846b/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ashish.rana.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ashish.rana.520" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashish.rana.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashish.rana.520" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashish.rana.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/laviii.rajput" height="30" width="40" /></a>
 <a href="https://hackerrank.com/ashishrana288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://hackerrank.com/ashishrana288" height="30" width="40" /></a>
 
 </p>
