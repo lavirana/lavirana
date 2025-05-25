@@ -59,7 +59,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavirana&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lavirana&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavirana&theme=radical"/>
 </p>
 
