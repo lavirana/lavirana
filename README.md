@@ -28,7 +28,7 @@
   <a href="https://www.facebook.com/ashish.rana.520" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/>
   </a>
-  <a href="https://www.instagram.com/ashish.rana.520" target="blank">
+  <a href="https://www.instagram.com/laviii.rajput" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
