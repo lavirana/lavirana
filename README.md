@@ -12,7 +12,6 @@
 <p align="center">
 <img src="https://www.codewars.com/users/lavirana/badges/large">
   </p>
----
 
 - 💬 Ask me about: **Laravel, CodeIgniter, REST APIs, Laravel Livewire, Affiliate Marketing Tech, Core PHP, AWS (EC2/RDS), MySQL, WordPress, Git, Tailwind CSS, Payment Gateway Integration (Cashfree, Paytm), ReactJS, and scalable backend architecture.**
 - 📫 Reach me at: **ashishrana288@gmail.com**
