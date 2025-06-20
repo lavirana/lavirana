@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavirana&label=Visitors&color=0e75b6&style=flat" alt="lavirana" />
   <a target="_blank" href="https://leetcode.com/ashishrana288/"><img src="https://img.shields.io/badge/LeetCode-My%20Profile-orange?logo=leetcode&style=flat"></a>
-</p>
-<p align="center">
-<a target="_blank" href="https://www.codewars.com/users/lavirana"><img src="https://www.codewars.com/users/lavirana/badges/large"></a>
+<a target="_blank" href="https://www.codewars.com/users/lavirana"><img src="https://www.codewars.com/users/lavirana/badges/micro"></a>
   </p>
 
 
