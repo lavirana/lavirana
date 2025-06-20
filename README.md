@@ -8,10 +8,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavirana&label=Visitors&color=0e75b6&style=flat" alt="lavirana" />
+  <a target="_blank" href="https://leetcode.com/ashishrana288/"><img src="https://img.shields.io/badge/LeetCode-My%20Profile-orange?logo=leetcode&style=flat"></a>
 </p>
 <p align="center">
 <a target="_blank" href="https://www.codewars.com/users/lavirana"><img src="https://www.codewars.com/users/lavirana/badges/large"></a>
   </p>
+
 
 - 💬 Ask me about: **Laravel, CodeIgniter, REST APIs, Laravel Livewire, Affiliate Marketing Tech, Core PHP, AWS (EC2/RDS), MySQL, WordPress, Git, Tailwind CSS, Payment Gateway Integration (Cashfree, Paytm), ReactJS, and scalable backend architecture.**
 - 📫 Reach me at: **ashishrana288@gmail.com**
