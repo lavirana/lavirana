@@ -19,7 +19,7 @@
 
 ### 🧭 About Me
 💡 Passionate **Backend Developer** with over **7 years of experience** crafting robust, scalable web apps and APIs.  
-🧰 My expertise lies in **Laravel**, **CodeIgniter**, and **Livewire**, with hands-on experience in **AWS**, **REST APIs**, and **Affiliate Marketing Tech**.  
+🧰 My expertise lies in **Laravel**, **CodeIgniter**, **WordPress**, **PHP** and **Livewire**, with hands-on experience in **AWS**, **REST APIs**, and **Affiliate Marketing Tech**.  
 🚀 I’m always exploring modern tools like **ReactJS**, **Tailwind CSS**, and **Payment Gateway Integrations** to build efficient, secure, and fast web ecosystems.    
 📧 Reach me: **ashishrana288@gmail.com**
 
