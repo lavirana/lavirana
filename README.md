@@ -7,7 +7,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1643514564/12992/wave_animated.gif" width="36"/>  
   Hi, I'm <span style="color:#00c3ff;">Ashish Rana</span>
 </h1>
-<h3 align="center">✨ Backend Developer | Laravel Artisan | Tech Explorer from 🇮🇳</h3>
+<h3 align="center">✨ Backend Developer | Tech Explorer from 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavirana&label=Profile+Views&color=00c3ff&style=flat-square"/>
@@ -35,14 +35,14 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,jquery,html,css,bootstrap,tailwind,mysql,postgres,aws,git,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,jquery,html,css,bootstrap,mysql,postgres,aws,git,linux&theme=dark" />
 </p>
 
 ---
 
-### ⚡ Featured Projects
+### Featured Projects
 <p align="center">
   <a href="https://github.com/lavirana/laravel-ecommerce"><img src="https://img.shields.io/badge/Laravel-Ecommerce-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   <a href="https://github.com/lavirana/php-patterns"><img src="https://img.shields.io/badge/PHP-Patterns-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
@@ -51,17 +51,10 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavirana&layout=compact&theme=tokyonight" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavirana&theme=tokyonight" width="48%">
 </p>
-
----
-
-### 🧩 Fun Fact  
-> “Code is like humor — when you have to explain it, it’s bad.” 😄  
-
 ---
 
 <p align="center">
