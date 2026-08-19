@@ -28,9 +28,6 @@
   </a>
 </p>
 
----
-### 🧭 About Me 💡 Passionate **Backend Developer** with over **7 years of experience** crafting robust, scalable web apps and APIs. 🧰 My expertise lies in **Laravel**, **CodeIgniter**, **WordPress**, **PHP** and **Livewire**, with hands-on experience in **AWS**, **REST APIs**, and **Affiliate Marketing Tech**. 🚀 I’m always exploring modern tools like **ReactJS**, **Tailwind CSS**, and **Payment Gateway Integrations** to build efficient, secure, and fast web ecosystems. 📧 Reach me: **ashishrana288@gmail.com** ---
-
 I'm a **Backend Developer** with 7+ years of experience building web applications, APIs, CMS solutions, and business platforms.
 
 My primary stack revolves around **PHP, Laravel, WordPress, MySQL, REST APIs, and AWS**, while I continuously explore modern technologies and better ways to build scalable software.
